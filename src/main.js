@@ -1,4 +1,4 @@
-import checkImage from './js/render-fuctions';
+import checkImage from './js/render-functions';
 
 const searchForm = document.querySelector('.form');
 const galleryEl = document.querySelector('.gallery');
